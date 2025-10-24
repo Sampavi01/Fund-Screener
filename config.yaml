@@ -1,0 +1,4 @@
+historical_period: "5y"
+min_sma_days: 200
+db_path: "funds.db"
+log_level: "DEBUG" 
